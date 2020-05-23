@@ -195,33 +195,7 @@
                         to certain features from your mobile device, including your mobile device's <bdt
                             class="forloop-component"></bdt>
                         <bdt class="question">camera</bdt>, <bdt class="forloop-component"></bdt>and other features. If
-                        you wish to change our access or permissions, you may do so in your device's settings.<span
-                            style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span
-                                    data-custom-class="body_text">
-                                    <bdt class="statement-end-if-in-editor">
-                                        <bdt class="block-component">
-                                            <bdt class="block-component"></bdt>
-                                </span></span></span>
-                        <bdt class="forloop-component"></bdt><span style="color: rgb(89, 89, 89);"><span
-                                style="font-size: 15px;"><span data-custom-class="body_text">
-                                    <bdt class="statement-end-if-in-editor"></bdt>
-                                </span></span></span>
-                        <bdt class="forloop-component"></bdt><span style="font-size: 15px;"><span
-                                style="color: rgb(89, 89, 89);"><span data-custom-class="body_text">
-                                    <bdt class="statement-end-if-in-editor"></bdt>
-                                </span></span></span>
-                    </span></span></span></li>
-        </ul>
-        <p style="font-size: 15px;"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                    data-custom-class="body_text"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span
-                            data-custom-class="body_text">
-                            <bdt class="statement-end-if-in-editor">
-                                <bdt class="block-component"></bdt>
-                            </bdt>
-                        </span></span></span></span></bdt>
-            </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-            </li>
-            </ul>
+                        you wish to change our access or permissions, you may do so in your device's settings.
             <p style="font-size: 15px; line-height: 1.5;"><br></p>
             <p id="infoshare" style="font-size:15px;"><span style="color: rgb(0, 0, 0);"><strong><span
                             style="font-size: 19px;"><span data-custom-class="heading_1">2. WILL YOUR INFORMATION BE
