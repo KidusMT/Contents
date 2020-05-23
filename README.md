@@ -114,13 +114,12 @@
     <p style="font-size:15px;"><span style="color: rgb(0, 0, 0);"><strong><span style="font-size: 19px;"><span
                         data-custom-class="heading_1">TABLE OF CONTENTS</span></span></strong></span></p>
     <p style="font-size:15px;"><a data-custom-class="link" href="#infocollect"><span style="color: rgb(89, 89, 89);">1.
-                WHAT INFORMATION DO WE COLLECT?</span></a> <span style="color: rgb(89, 89, 89);">
+                WHAT INFORMATION DO WE COLLECT?
             <bdt class="block-component"></bdt>
         </span></span></p>
     <p style="font-size:15px;"><span style="color: rgb(89, 89, 89);"><a data-custom-class="link" href="#infoshare">2.
                 WILL YOUR INFORMATION BE SHARED WITH ANYONE?</a>
-            <bdt class="block-component"><span data-custom-class="body_text"></bdt>
-        </span></span><span style="font-size: 15px; color: rgb(89, 89, 89);">
+            <bdt class="block-component">
             <bdt class="block-component"></bdt>
         </span><span style="color: rgb(89, 89, 89);"><span style="color: rgb(89, 89, 89);">
                 <bdt class="block-component"></bdt>
@@ -130,11 +129,7 @@
         <bdt class="block-component"></bdt></span>
     </p>
     <p style="font-size:15px;"><a data-custom-class="link" href="#inforetain"><span style="color: rgb(89, 89, 89);">3.
-                HOW LONG DO WE KEEP YOUR INFORMATION?</span></a><span style="color: rgb(89, 89, 89);"><span
-                style="color: rgb(89, 89, 89);">
-                <bdt class="block-component"></bdt>
-            </span></span>
-        <bdt class="block-component"></bdt></span>
+                HOW LONG DO WE KEEP YOUR INFORMATION?
     </p>
     <p style="font-size:15px;"><a data-custom-class="link" href="#infominors"><span style="color: rgb(89, 89, 89);">4.
                 DO WE COLLECT INFORMATION FROM MINORS?</span></a>
